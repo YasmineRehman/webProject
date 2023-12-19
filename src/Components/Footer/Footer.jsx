@@ -7,14 +7,14 @@ export default function Footer() {
     <footer className="footer">
       <h2>Beach Resort | Hotel Room Book</h2>
       <p>
-        &copy; <span>{year}</span> BeachResort.com - All Rights Copyright
-        Reserved To{" "}
+        &copy; <span>{year}</span> created by 
+        {" "}
         <a
           target="_blank"
           rel="noreferrer"
           href="https://www.facebook.com/SamiurRahmanMukul"
         >
-          Samiur Rahman Mukul
+          YasmineRehman
         </a>
       </p>
     </footer>
